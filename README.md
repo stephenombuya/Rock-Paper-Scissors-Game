@@ -4,7 +4,7 @@ This project is a simple Rock, Paper, Scissors game where users play against the
 
 
 ### **Live Demo**
-Rock-Paper-Scissors-Game - [Game]()
+Rock-Paper-Scissors-Game - [Game](https://rockyplay.netlify.app/)
 
 
 
